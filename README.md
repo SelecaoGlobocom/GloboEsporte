@@ -9,4 +9,4 @@ Para executar monte o ambiente da seguinte maneira
 
 + Any Folder
   + AxolotlDataScience
-  +GloboEsporte
+  + GloboEsporte
