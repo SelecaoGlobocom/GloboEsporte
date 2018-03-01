@@ -7,8 +7,6 @@ projeto [AxolotlDataScience](https://github.com/FilipeSantiago/AxolotlDataScienc
 
 Para executar monte o ambiente da seguinte maneira
 
-Any Folder
-.
-. . AxolotlDataScience
-.
-. . GloboEsporte
++ Any Folder
+  + AxolotlDataScience
+  +GloboEsporte
